@@ -1,0 +1,31 @@
+
+
+import sys
+import json
+import struct
+
+class HTTP_Translator():
+      def __init__():
+            pass
+
+      def to_distalgo():
+            pass
+
+      def from_distalgo():
+            pass
+      
+
+class Protocol_Translator(process):
+
+      def setup():
+            pass
+
+      def run():
+            pass
+
+      def receive(msg=()):
+            pass
+
+
+def main():
+      pass
